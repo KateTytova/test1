@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    background-color:#F3F6F8 ;
+}
+.m.content{
+    width: 1535px;
+    margin: 0 auto;
+}
